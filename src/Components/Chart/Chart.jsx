@@ -12,7 +12,6 @@ const Chart = () => {
         }
 
         fetchAPI()
-        console.log('Hello')
     })
 
     const lineChart = (
